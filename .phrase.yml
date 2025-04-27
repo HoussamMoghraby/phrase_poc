@@ -6,9 +6,11 @@ phrase:
     sources:
     - file: src/assets/i18n/en.json
       params:
+        tags: "needs_review"
+        #skip_upload_tags: true
         locale_id: en
         file_format: nested_json
-        update_translations: true
+        #update_translations: true
         autotranslate: true
     - file: src/assets/i18n/es.json
       params:
