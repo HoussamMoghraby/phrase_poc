@@ -1,0 +1,14 @@
+<h1 class="title">Phrase POC</h1>
+<div class="hello-container">
+  <select (change)="switchLanguage($event)">
+    <option value="en">English</option>
+    <option value="fr">Français</option>
+    <option value="es">Español</option>
+    <option value="ar">العربية</option>
+  </select>
+</div>
+<div class="hello-container">
+  <div class="key-container" *ngFor="let key of translationKeys">
+    <b>{{key}}</b>: <span>{{ key | translate }}</span>
+  </div>
+</div>

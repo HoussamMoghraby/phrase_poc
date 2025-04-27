@@ -1,0 +1,30 @@
+{
+  "ai_world": "El mundo de la IA",
+  "auto_translated_key": "Esta es una clave traducida automáticamente",
+  "forgot_password": "Olvidé mi contraseña",
+  "hello": "hola",
+  "home_address": "Dirección de la casa",
+  "key": "nuevo valor actualizado",
+  "key_2": "new key 2 spanish",
+  "key_3": "key 3 spanish",
+  "key_4": "Clave 4 uptated",
+  "login": "acceso",
+  "menu_manager": {
+    "actions": {
+      "add": "agregar",
+      "delete": "borrar",
+      "edit": "editar"
+    },
+    "description": "módulo para gestionar los datos de etiquetado de la cuenta",
+    "title": "administrador de menús"
+  },
+  "new_key": "nuevo valor actualizado",
+  "new_key_2": "new key 2 spanish",
+  "register": "registro",
+  "signup": "Regístrate",
+  "this_is_a_text": "este es un texto",
+  "this_is_another_text": "este es otro texto",
+  "welcome_menu_manager": "Bienvenidos al módulo 'Gestor de menús'",
+  "welcome_message": "Bienvenido a la aplicación de demostración de frases",
+  "world": "mundo"
+}

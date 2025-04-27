@@ -1,0 +1,30 @@
+{
+  "ai_world": "AI world",
+  "auto_translated_key": "this is an auto translated key",
+  "forgot_password": "forgot password",
+  "hello": "hello",
+  "home_address": "home address",
+  "key": "new value updated",
+  "key_2": "new key 2",
+  "key_3": "key 3",
+  "key_4": "key 4 updated",
+  "login": "login",
+  "menu_manager": {
+    "actions": {
+      "add": "add",
+      "delete": "delete",
+      "edit": "edit"
+    },
+    "description": "module to manage account's labeling data",
+    "title": "menu manager"
+  },
+  "new_key": "new value updated",
+  "new_key_2": "new key 2",
+  "register": "register",
+  "signup": "signup",
+  "this_is_a_text": "this is a text",
+  "this_is_another_text": "this is another text",
+  "welcome_menu_manager": "welcome to the 'menu manager' module",
+  "welcome_message": "welcome to phrase demo application",
+  "world": "world"
+}

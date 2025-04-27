@@ -1,0 +1,30 @@
+{
+  "ai_world": "عالم الذكاء الاصطناعي",
+  "auto_translated_key": "هذا مفتاح مترجم تلقائيا",
+  "forgot_password": "نسيت كلمة المرور",
+  "hello": "مرحبا",
+  "home_address": "عنوان المنزل",
+  "key": "تم تحديث القيمة الجديدة",
+  "key_2": "مفتاح جديد 2",
+  "key_3": "المفتاح 3",
+  "key_4": "المفتاح 4 updated",
+  "login": "تسجيل الدخول",
+  "menu_manager": {
+    "actions": {
+      "add": "جمع",
+      "delete": "حذف",
+      "edit": "حرر"
+    },
+    "description": "وحدة لإدارة بيانات تصنيف الحساب",
+    "title": "مدير القائمة"
+  },
+  "new_key": "تم تحديث القيمة الجديدة",
+  "new_key_2": "مفتاح جديد 2",
+  "register": "سجل",
+  "signup": "الاشتراك",
+  "this_is_a_text": "هذا نص",
+  "this_is_another_text": "هذا نص آخر",
+  "welcome_menu_manager": "مرحبا بكم في وحدة \"مدير القائمة\"",
+  "welcome_message": "مرحبا بكم في تطبيق Phrase Demo",
+  "world": "عالم"
+}

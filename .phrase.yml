@@ -1,0 +1,52 @@
+phrase:
+  host: https://api.us.app.phrase.com/v2
+  access_token: aae4ca987bb5a2b08de9ee81dd4fa3c1fc7f94401e784f1d549c9f51428439b0
+  project_id: 9272aa73a7e0dbdf0f6e27513c915fc4
+  push:
+    sources:
+    - file: src/assets/i18n/en.json
+      params:
+        locale_id: en
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n/es.json
+      params:
+        locale_id: es
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n/fr.json
+      params:
+        locale_id: fr
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n/ar.json
+      params:
+        locale_id: ar
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+  pull:
+    targets:
+    - file: src/assets/i18n/en.json
+      params:
+        locale_id: en
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n/es.json
+      params:
+        locale_id: es
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n/fr.json
+      params:
+        locale_id: fr
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n/ar.json
+      params:
+        locale_id: ar
+        file_format: nested_json
+        include_empty_translations: true
