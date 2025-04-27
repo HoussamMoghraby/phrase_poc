@@ -1,0 +1,12 @@
+{
+  "scale_container": {
+    "actions": {
+      "add": "Add",
+      "delete": "Delete",
+      "edit": "Edit"
+    },
+    "description": "Scale Container Description",
+    "title": "Scale Container"
+  },
+  "wlp_key": "wlp key"
+}

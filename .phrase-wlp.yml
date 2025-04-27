@@ -1,0 +1,54 @@
+phrase:
+  host: https://api.us.app.phrase.com/v2
+  access_token: aae4ca987bb5a2b08de9ee81dd4fa3c1fc7f94401e784f1d549c9f51428439b0
+  project_id: fc76a5ae3b15503165af38a7b95c640d
+  push:
+    sources:
+    - file: src/assets/i18n-wlp/en.json
+      params:
+        tags: "needs_review"
+        #skip_upload_tags: true
+        locale_id: en
+        file_format: nested_json
+        #update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n-wlp/es.json
+      params:
+        locale_id: es
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n-wlp/fr.json
+      params:
+        locale_id: fr
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+    - file: src/assets/i18n-wlp/ar.json
+      params:
+        locale_id: ar
+        file_format: nested_json
+        update_translations: true
+        autotranslate: true
+  pull:
+    targets:
+    - file: src/assets/i18n-wlp/en.json
+      params:
+        locale_id: en
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n-wlp/es.json
+      params:
+        locale_id: es
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n-wlp/fr.json
+      params:
+        locale_id: fr
+        file_format: nested_json
+        include_empty_translations: true
+    - file: src/assets/i18n-wlp/ar.json
+      params:
+        locale_id: ar
+        file_format: nested_json
+        include_empty_translations: true

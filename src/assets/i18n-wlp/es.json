@@ -1,0 +1,12 @@
+{
+  "scale_container": {
+    "actions": {
+      "add": "agregar",
+      "delete": "borrar",
+      "edit": "editar"
+    },
+    "description": "Descripción del contenedor de escala",
+    "title": "Contenedor de escala"
+  },
+  "wlp_key": "Clave WLP"
+}
