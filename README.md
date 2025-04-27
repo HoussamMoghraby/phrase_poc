@@ -14,6 +14,18 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Phrase push
+
+Run `npm run phrase-push` to push the translations to phrase.
+
+## Phrase pull
+
+Run `npm run phrase-pull` to pull the translations from phrase.
+
+## Phrase push/pull
+
+Run `npm run phrase-update` to sync translations by pushing local translations and pull back the latest from phrase.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
