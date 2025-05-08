@@ -1,12 +1,12 @@
 {
-  "scale_container": {
+  "wlp_feature": {
     "actions": {
       "add": "ajouter",
       "delete": "supprimer",
       "edit": "éditer"
     },
-    "description": "Description du conteneur de balance",
-    "title": "Conteneur de balance"
+    "description": "Description de la fonctionnalité WLP",
+    "title": "Fonctionnalité WLP"
   },
   "wlp_key": "Clé WLP"
 }

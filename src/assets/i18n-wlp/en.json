@@ -1,12 +1,12 @@
 {
-  "scale_container": {
+  "wlp_feature": {
     "actions": {
       "add": "Add",
       "delete": "Delete",
       "edit": "Edit"
     },
-    "description": "Scale Container Description",
-    "title": "Scale Container"
+    "description": "WLP Feature Description",
+    "title": "WLP Feature"
   },
   "wlp_key": "wlp key"
 }

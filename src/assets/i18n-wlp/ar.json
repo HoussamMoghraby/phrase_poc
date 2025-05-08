@@ -1,12 +1,12 @@
 {
-  "scale_container": {
+  "wlp_feature": {
     "actions": {
       "add": "جمع",
       "delete": "حذف",
       "edit": "حرر"
     },
-    "description": "مقياس وصف الحاوية",
-    "title": "حاوية مقياس"
+    "description": "وصف ميزة WLP",
+    "title": "ميزة WLP"
   },
   "wlp_key": "مفتاح WLP"
 }
