@@ -1,7 +1,7 @@
 phrase:
   host: https://api.us.app.phrase.com/v2
-  access_token: aae4ca987bb5a2b08de9ee81dd4fa3c1fc7f94401e784f1d549c9f51428439b0
-  project_id: 9272aa73a7e0dbdf0f6e27513c915fc4
+  access_token: bd235e1e1b35d46486ad589a4669c33280203f26ce0c780006bbd2981016b8ce
+  project_id: d86334c6ec1bb100ce81e60355d8adde
   push:
     sources:
     - file: src/assets/i18n/en.json
