@@ -3,6 +3,9 @@
   "auto_translated_key": "Il s’agit d’une clé traduite automatiquement",
   "checklist_manager": "Gestionnaire de listes de contrôle",
   "forgot_password": "Mot de passe oublié",
+  "good_evening": "bonne soirée",
+  "good_morning": "bonjour",
+  "goodbye": "au revoir",
   "hello": "bonjour",
   "home_address": "Adresse du domicile",
   "key": "nouvelle valeur mise à jour",
@@ -27,6 +30,8 @@
   "this_is_a_demo_1": "Ceci est une démo",
   "this_is_a_text": "c'est un texte",
   "this_is_another_text": "c'est un autre texte",
+  "this_is_key_1": "c'est la clé 1",
+  "this_is_key_2": "c'est la clé 2",
   "welcome_menu_manager": "Bienvenue dans le module 'Menu Manager'",
   "welcome_message": "Bienvenue dans l’application de démonstration de phrase",
   "world": "monde"

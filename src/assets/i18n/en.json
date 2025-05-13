@@ -3,6 +3,9 @@
   "auto_translated_key": "this is an auto translated key",
   "checklist_manager": "checklist manager",
   "forgot_password": "forgot password",
+  "good_evening": "good evening",
+  "good_morning": "good morning",
+  "goodbye": "goodbye",
   "hello": "hello",
   "home_address": "home address",
   "key": "new value updated",
@@ -27,6 +30,8 @@
   "this_is_a_demo_1": "this is a demo",
   "this_is_a_text": "this is a text",
   "this_is_another_text": "this is another text",
+  "this_is_key_1": "this is key 1",
+  "this_is_key_2": "this is key 2",
   "welcome_menu_manager": "welcome to the 'menu manager' module",
   "welcome_message": "welcome to phrase demo application",
   "world": "world"

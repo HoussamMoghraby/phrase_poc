@@ -8,5 +8,6 @@
     "description": "WLP Feature Description",
     "title": "WLP Feature"
   },
-  "wlp_key": "wlp key"
+  "wlp_key": "wlp key",
+  "wlp_this_is_key_2": "this is key 2"
 }
