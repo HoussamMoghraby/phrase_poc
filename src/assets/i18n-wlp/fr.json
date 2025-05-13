@@ -8,5 +8,6 @@
     "description": "Description de la fonctionnalité WLP",
     "title": "Fonctionnalité WLP"
   },
-  "wlp_key": "Clé WLP"
+  "wlp_key": "Clé WLP",
+  "wlp_this_is_key_2": null
 }

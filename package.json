@@ -7,7 +7,7 @@
     "build": "npm run phrase-update && ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "phrase-push": "node phrase-push.js",
+    "phrase-push": "node phrase-push.js && node phrase-push-wlp.js",
     "phrase-pull": "phrase pull --config .phrase.yml && phrase pull --config .phrase-wlp.yml",
     "phrase-update": "npm run phrase-push && npm run phrase-pull"
   },

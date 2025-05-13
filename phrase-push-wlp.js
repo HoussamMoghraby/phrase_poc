@@ -10,7 +10,7 @@ try {
   console.log(`📤 Pushing strings to Phrase branch: ${branch}`);
 
   // Set PHRASE_BRANCH and run phrase push
-  execSync(`phrase push --config .phrase.yml --branch ${branch}`, {
+  execSync(`phrase push --config .phrase-wlp.yml --branch ${branch}`, {
     stdio: 'inherit',
     shell: true
   });
